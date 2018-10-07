@@ -9,7 +9,7 @@ This project will convert html website ( documentation / CHM ) to Confluence fro
     Phase 1- 
     Phase 2- 
 
-### Prerequisites
+## Prerequisites
 
   none
 
@@ -27,7 +27,7 @@ This project will convert html website ( documentation / CHM ) to Confluence fro
     3-
 
 
-###  python script manual information:
+##  python script manual information:
 
 converthtml2confluence.py --help
 
